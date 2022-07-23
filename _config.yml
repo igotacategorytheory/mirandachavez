@@ -1,11 +1,11 @@
 <<<<<<< Updated upstream
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk/ # root address of the site
-=======
-title: MChavez
+title: MirandaChavez
 author: Miranda Chavez
-url: https://mirandachavez.github.io # root address of the site
+url: https://igotacategorytheory.github.io/mirandachavez # root address of the site
+=======
+title: MirandaChavez
+author: Miranda Chavez
+url: https://igotacategorytheory.github.io/mirandachavez # root address of the site
 >>>>>>> Stashed changes
 description: > # description of the site (multiple lines allowed)
 I am a Business Major with a concentration in General business, graduating in Spring of 2023 from California State University Dominguez Hills.
@@ -19,7 +19,7 @@ twitter:
   username: abhinav # update or delete this
   card: summary_large_image
 
-#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
+theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
 
 theme_config:
