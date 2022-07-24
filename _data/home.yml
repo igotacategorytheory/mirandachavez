@@ -4,11 +4,11 @@ navbar_entries:
 
 project_entries:
   - title: Education
-    url: edu
+    url: education
     desc:
 
   - title: Experience
-    url: exp
+    url: experience
     desc:
 old_project_entries:
   - title: Soopr
@@ -38,5 +38,5 @@ footer_entries:
 misc_entries:
   - title: Mchavez269@toromail.csudh.edu
     url: mailto:Mchavez269@toromail.csudh.edu
-  - title: (562) 303-6844
+  - title: (562)-303-6844
     url: false

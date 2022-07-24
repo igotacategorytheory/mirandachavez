@@ -17,12 +17,12 @@ remote_theme: abhinavs/moonwalk
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
-  back_home_text: "go back.." # customize text for homepage link in post layout
+  back_home_text: "{back to home}" # customize text for homepage link in post layout
   appearance_toggle: true # if appearance can be switched by user
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
-  show_footer: true # show footer links in home page,add in _data/home.yml
+  show_footer: false # show footer links in home page,add in _data/home.yml
   show_copyright: false # show copyright notice in footer
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
@@ -42,7 +42,7 @@ soopr:
 highlighter: rouge
 
 sass:
-  style: :compressed
+  style: compressed
 
 plugins:
   - jekyll-feed
