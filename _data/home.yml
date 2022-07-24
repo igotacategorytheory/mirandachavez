@@ -10,6 +10,10 @@ project_entries:
   - title: Experience
     url: experience
     desc:
+  
+  - title: Hobbies
+    url: hobbies
+    desc:
 old_project_entries:
   - title: Soopr
     url: https://www.soopr.co
