@@ -1,10 +1,8 @@
 title: MirandaChavez
 author: Miranda Chavez
 url: https://igotacategorytheory.github.io/mirandachavez # root address of the site
-description:  
-21st Centrury entrepreneur • Los Angeles • Business Administration              
-Please feel free to contact me for any additional questions. Mchavez269@toromail.csudh.edu (562) 303-6844
-
+description: > # description of the site (multiple lines allowed)
+  I am a Business Major with a concentration in General business, graduating in Spring of 2023 from California State University Dominguez Hills. Once I graduate I plan on applying to many corporations in order to advance my career in the business world.
 
 permalink: /:slug
 
@@ -24,7 +22,7 @@ theme_config:
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
-  show_footer: false # show footer links in home page,add in _data/home.yml
+  show_footer: true # show footer links in home page,add in _data/home.yml
   show_copyright: false # show copyright notice in footer
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
