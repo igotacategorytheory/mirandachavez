@@ -2,14 +2,18 @@ title: MirandaChavez
 author: Miranda Chavez
 url: https://igotacategorytheory.github.io/mirandachavez # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+21st Centrury entrepreneur • Los Angeles • Business Administration
+  Please feel free to contact me for any additional questions. 
+  Email: Mchavez269@toromail.csudh.edu
+  Phone: (562) 303-6844
+
 
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
 twitter:
-  username: abhinav # update or delete this
+  username: MirandaChavez # update or delete this
   card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
@@ -22,13 +26,13 @@ theme_config:
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
-  show_footer: true # show footer links in home page,add in _data/home.yml
+  show_footer: false # show footer links in home page,add in _data/home.yml
   show_copyright: false # show copyright notice in footer
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
   show_blog: false # show blog posts added in _posts
   show_old_projects: true # show old projects as cards, add in _data/home.yml
-  show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
+  show_misc_list: true # show generic vertical list for misc details, add _data/home.yml
   # options for "home" page
   home:
     title_projects: Portfolio
