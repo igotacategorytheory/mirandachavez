@@ -5,9 +5,6 @@ navbar_entries:
   - title: experience
     url: exp
 
-  - title: portfolio
-    url: https://www.abhinav.co
-
 project_entries:
   - title: Project 1
     url: overview-post
